@@ -9,3 +9,4 @@ suka sunset
 suka pantai
 suka makan
 kamu nanyea
+git remote add origin https://github.com/agnesiayolandaaa/gitbaru.git
